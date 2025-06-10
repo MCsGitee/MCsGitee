@@ -8,8 +8,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment:
-      name:production
+    environment: 
+      name: production
     permissions:
       contents: write
     steps:
@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: MCsGitee
+          user: Peter-JXL
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
