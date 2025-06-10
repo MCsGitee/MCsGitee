@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# There is MC，a student from SSE,HUST.Favorite football club is Manchester City.
+### Here is MC，a student from SSE,HUST.Favorite football club is Manchester City.
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text) -->
 
