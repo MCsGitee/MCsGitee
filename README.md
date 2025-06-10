@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </picture>
 
 <div align="center">
-  ![Green Animate](https://github.com/MCsGitee/MCsGitee/profile-3d-contrib/profile-green-animate.svg)
+  ![Green Animate](https://raw.githubusercontent.com/MCsGitee/MCsGitee/main/profile-3d-contrib/profile-green-animate.svg)
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MCsGitee.id&left_color=green&right_color=red)
