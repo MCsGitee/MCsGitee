@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MCsGitee/MCsGitee/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  ![Green Animate](https://raw.githubusercontent.com/MCsGitee/MCsGitee/main/profile-3d-contrib/profile-green-animate.svg)
-</div>
+
+![Green Animate](https://raw.githubusercontent.com/MCsGitee/MCsGitee/main/profile-3d-contrib/profile-green-animate.svg)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MCsGitee.id&left_color=green&right_color=red)
 
