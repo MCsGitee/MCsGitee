@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>✨ 3D GitHub Contributions</h3>
 
-  ![Green Animate](https://github.com/MCsGitee/MCsGitee@output/profile-3d-contrib/profile-green-animate.svg)
+  ![Green Animate](https://github.com/MCsGitee/MCsGitee/main/profile-3d-contrib/profile-green-animate.svg)
   
-  ![Season Theme](https://github.com/MCsGitee/MCsGitee@output/profile-3d-contrib/profile-season-animate.svg)
+  ![Season Theme](https://github.com/MCsGitee/MCsGitee/main/profile-3d-contrib/profile-season-animate.svg)
   
-  ![Night View](https://github.com/MCsGitee/MCsGitee@output/profile-3d-contrib/profile-night-view.svg)
+  ![Night View](https://github.com/MCsGitee/MCsGitee/main/profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MCsGitee.id&left_color=green&right_color=red)
