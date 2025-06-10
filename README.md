@@ -24,6 +24,16 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MCsGitee/MCsGitee/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <h2>✨ 3D GitHub Contributions</h2>
+
+  ![Green Animate](https://cdn.jsdelivr.net/gh/MCsGitee/MCsGitee@output/profile-3d-contrib/profile-green-animate.svg)
+  
+  ![Season Theme](https://cdn.jsdelivr.net/gh/MCsGitee/MCsGitee@output/profile-3d-contrib/profile-season-animate.svg)
+  
+  ![Night View](https://cdn.jsdelivr.net/gh/MCsGitee/MCsGitee@output/profile-3d-contrib/profile-night-view.svg)
+</div>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MCsGitee.id&left_color=green&right_color=red)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCsGitee)
