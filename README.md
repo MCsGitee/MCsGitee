@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MCsGitee/MCsGitee/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MCsGitee/MCsGitee/main/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MCsGitee/MCsGitee/main/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MCsGitee/MCsGitee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MCsGitee/MCsGitee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MCsGitee/MCsGitee/output/github-contribution-grid-snake.svg">
 </picture>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MCsGitee.id&left_color=green&right_color=red)
