@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MCsGitee&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MCsGitee.id&left_color=green&right_color=red)
 ![Metrics](/github-metrics.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCsGitee)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCsGitee)
