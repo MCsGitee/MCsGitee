@@ -13,6 +13,10 @@
 -->
 ### Here is MC，a student from SSE,HUST.Favorite football club is Manchester City.
 
+I am currently conducting research in the field of artificial intelligence for predicting molecular properties and structure prediction. As an undergraduate student, I have co-authored one published paper. In the future, I plan to study and conduct research in the field of large language models (LLMs), and I hope to meet like-minded friends along the way.
+
+- 📫 How to reach me: mchust@hust.edu.cn
+
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text) -->
 
 ![Metrics](/github-metrics.svg)
